@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS specific
+.DS_Store
